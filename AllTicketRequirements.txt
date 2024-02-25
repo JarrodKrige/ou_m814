@@ -1,0 +1,8 @@
+1.
+Description: The system must allow customers to submit ticket return requests online through the AllTicket platform, including the ability to select specific tickets from their purchase history for return.
+Rationale: This functionality is essential to provide a convenient and efficient way for customers to return tickets, aligning with the project's commitment to customer satisfaction and accessibility.
+Originator: Kate, the Product Manager, would likely raise this requirement, given her focus on meeting revenue targets without compromising on social justice commitments and ensuring a good atmosphere at the events by avoiding empty seats.
+2.
+Description: The system must automatically validate the eligibility of tickets for return based on the event's return policy criteria at the time of the return request submission.
+Rationale: Automating the validation process ensures that only tickets eligible for return are processed, which helps in managing the ticket inventory effectively and prevents potential fraud.
+Originator: Amit, responsible for communications, would be a key originator for this requirement. His emphasis on the need to integrate with transport and accommodation booking systems and the issue of returns suggests a keen interest in streamlining operations and safeguarding the system against unauthorised market activities.
